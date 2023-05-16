@@ -1,22 +1,48 @@
 body
 {
-    color: crimson;
+    color: cyan;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
+
+#head
+{
+    background: crimson;
+    box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 0.5);
+    color: white;
+    font-weight: bold;
+    margin:0;
+    padding: 0.5em;
+
+}
+
+#head #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
 #container
 {
-    color: crimson;
+    color: limegreen;
     text-align: left;
     font-family: "Arial";
     border: 1px solid cadetblue;
     margin: 0 auto;
     padding: 1em;
 }
+
 #container h1
 {
     font-size: 20px;
+}
+
+#post
+{
+    padding: 1em;
+
 }
