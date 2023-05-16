@@ -2,7 +2,7 @@ body
 {
     color: crimson;
     text-align: center;
-    font-family: "Arial";
+    font-family: "Courier";
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -11,7 +11,7 @@ body
 {
     color: crimson;
     text-align: left;
-    font-family: "Arial";
+    font-family: "Courier";
     border: 1px solid cadetblue;
     margin: 0 auto;
     padding: 1em;
