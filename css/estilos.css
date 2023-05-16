@@ -2,7 +2,7 @@ body
 {
     color: cyan;
     text-align: center;
-    font-family: "Courier";
+    font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -30,7 +30,7 @@ body
 {
     color: limegreen;
     text-align: left;
-    font-family: "Courier";
+    font-family: "Arial";
     border: 1px solid cadetblue;
     margin: 0 auto;
     padding: 1em;
