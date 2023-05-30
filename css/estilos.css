@@ -1,6 +1,6 @@
 body
 {
-    color: red;
+    color: #333;
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -28,7 +28,7 @@ body
 
 #container
 {
-    color: limegreen;
+    color: #333;
     text-align: left;
     font-family: "Arial";
     border: 1px solid cadetblue;
